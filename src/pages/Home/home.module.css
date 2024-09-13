@@ -1,0 +1,21 @@
+.titleH2 {
+    font-size: clamp(1.5rem, 4vw, 2.6rem);
+    text-align: center;
+}
+
+.titleH3 {
+    font-size: clamp(1.2rem, 3vw, 2rem);
+    text-align: center;
+}
+
+.titleH4 {
+    font-size: clamp(1rem, 2.5vw, 1.6rem);
+    text-align: center;
+}
+
+.paragraph {
+    font-size: clamp(0.9rem, 2vw, 1.2rem);
+    text-align: justify;
+    text-indent: 20px;
+    padding: 0 20px;
+}
